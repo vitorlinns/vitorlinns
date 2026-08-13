@@ -13,9 +13,9 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tailwind,figma" alt="style" />
 </p>
-<h3>Conhecimento complementar</h3>
+<h3>Conhecimento complementar em backend e infra</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,postgresql,docker,cloudflare,linux" alt="style" />
+  <img src="https://skillicons.dev/icons?i=express,postgresql,docker,cloudflare,linux" alt="style" />
 </p>
 
 <h3>Projetos em destaque</h3>

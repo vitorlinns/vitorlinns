@@ -15,7 +15,7 @@
 </p>
 <h3>Conhecimento complementar em backend e infra</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=express,postgresql,docker,cloudflare,linux" alt="style" />
+  <img src="https://skillicons.dev/icons?i=express,postgresql,docker,cloudflare" alt="style" />
 </p>
 
 <h3>Projetos em destaque</h3>

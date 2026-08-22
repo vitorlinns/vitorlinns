@@ -1,9 +1,19 @@
 <h3 align="left">Oi, eu sou Vitor Linns!</h3>
 </br>
-<p>Desenvolvedor frontend com foco em criar interfaces performáticas, acessíveis e bem estruturadas. Gosto de transformar design em código limpo e de resolver problemas de UI/UX com atenção aos detalhes.</p>
+<p>Engenheiro de Software em formação, atuando como desenvolvedor full stack. Desenvolvo backend e frontend com foco em performance, acessibilidade e atenção real aos detalhes.</p>
 <h3>Stack</h3>
+<p><b>Frontend</b></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vite,tailwind" alt="Frontend" />
+</p>
+<p><b>Backend</b></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres" alt="Backend" />
+</p>
+<p><b>Infra</b></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,cloudflare,linux" alt="Infra" />
+</p>
 
 <h3>Projetos em destaque</h3>
 <table>

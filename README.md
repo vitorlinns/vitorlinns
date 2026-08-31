@@ -4,7 +4,7 @@
 <h3>Stack</h3>
 <p><b>Frontend</b></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,vite,tailwind" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="Frontend" />
 </p>
 <p><b>Backend</b></p>
 <p align="left">

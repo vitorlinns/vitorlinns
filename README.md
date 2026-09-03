@@ -1,6 +1,6 @@
 <h3 align="left">Oi, eu sou Vitor Linns!</h3>
 </br>
-<p>Sou desenvolvedor full stack, construo sites e sistemas. Busco equilibrar tecnologia, simplicidade e resultado. 
+<p>Sou desenvolvedor web, em minha jornada de trabalho busco equilibrar tecnologia, simplicidade e resultado. 
 No desenvolvimento, gosto de entender o problema antes de pensar na tecnologia. Nem todo problema precisa de uma solução complexa mas quando precisa, gosto de construir algo sólido e bem estruturado.
 </p>
 <h3>Minha Stack</h3>

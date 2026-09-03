@@ -3,18 +3,10 @@
 <p>Sou desenvolvedor web, em minha jornada de trabalho busco equilibrar tecnologia, simplicidade e resultado. 
 No desenvolvimento, gosto de entender o problema antes de pensar na tecnologia. Nem todo problema precisa de uma solução complexa mas quando precisa, gosto de construir algo sólido e bem estruturado.
 </p>
-<h3>Minha Stack</h3>
-<p><b>Frontend</b></p>
+
+<p><b>Minha stack</b></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="Frontend" />
-</p>
-<p><b>Backend</b></p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres" alt="Backend" />
-</p>
-<p><b>Infra</b></p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,cloudflare,linux" alt="Infra" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,react,tailwind,docker,cloudflare" alt="Backend" />
 </p>
 
 <h3>Projetos em destaque</h3>
